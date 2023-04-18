@@ -2,7 +2,7 @@
 
 ## This repository is dedicated to my solutions of assignments given by PWSKILLS for the course "DATA SCIENCE MASTERS - IMPACT BATCH 1" 
 
-### || Company Name : PWSKILLS  ||
+### || Organisation Name : PWSKILLS  ||
 
 ### || Course Name : DATA SCIENCE MASTERS  ||
 
