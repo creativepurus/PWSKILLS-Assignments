@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+
+contact_links:
+
+  - name: PWSKILLS-Assignments Discussions
+    url: https://github.com/creativepurus/PWSKILLS-Assignments/discussions
+    about: Please ask and answer questions here.
+
+  - name: PWSKILLS-Assignments Issues
+    url: https://github.com/creativepurus/PWSKILLS-Assignments/issues
+    about: Please report security vulnerabilities here.
