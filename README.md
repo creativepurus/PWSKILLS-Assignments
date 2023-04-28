@@ -1,9 +1,8 @@
 <p align="center">
 <a href="https://github.com/creativepuru">
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=24&duration=1000&pause=100&multiline=true&width=500&height=100&lines=Python+Basics;Hi+I+am+Purushottam;This+is+my+very+first+Github+Repository" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=24&duration=1000&pause=100&multiline=true&width=500&height=100&lines=PWSKILLS+-+ASSIGNMENTS" alt="Typing SVG" />
 </a>
 </p>
-<img src="https://readme-typing-svg"
 
 # PWSKILLS-Assignments
 
