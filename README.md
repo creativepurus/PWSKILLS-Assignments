@@ -9,10 +9,7 @@
 </div>
 
 # ABOUT :
-### This repository is a collection of codes and projects related to data science, machine learning, and artificial intelligence. We are constantly adding new content, so make sure to check back often.
-<br/>
-
-## This repository is dedicated to my solutions of assignments given by PWSKILLS for the course "DATA SCIENCE MASTERS - IMPACT BATCH 1" 
+### This repository is dedicated to my solutions of assignments given by PWSKILLS for the course "DATA SCIENCE MASTERS - IMPACT BATCH 1" 
 <br/>
 
 ### || Organisation Name : PWSKILLS  ||
