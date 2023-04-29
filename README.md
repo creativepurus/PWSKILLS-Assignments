@@ -14,7 +14,7 @@
 ### || Course Name : DATA SCIENCE MASTERS  ||
 ### || Batch : IMPACT BATCH 1  ||
 ### || Student Name : Purushottam Anand  ||
-#### --> Repository creation date : 15th April 2023
+
 
 <!-- 
 Welcome to our Data Science Repository!
@@ -35,5 +35,8 @@ Whether you are a beginner or an experienced data scientist, our repository has 
 
 Thank you for visiting our repository, and happy exploring!
 -->
+
+## --> Repository creation date : 15th April 2023
+<br/>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=red&style=for-the-badge&logo" alt="Back to Top" /></a></p>
