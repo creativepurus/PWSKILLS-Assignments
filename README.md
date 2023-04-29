@@ -1,6 +1,9 @@
 > [![Purushottam Anand](https://github.com/creativepuru.png?size=100)](https://github.com/creativepuru "Purushottam Anand 🇮🇳 on GitHub ☕")
 
+<p align="center"> 
+
 [![PWSKILLS ASSIGNMENTS](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=700&height=120&lines=WELCOME+TO+MY+PWSKILLS+-+ASSIGNMENTS+REPOSITORY)](https://github.com/creativepuru/PWSKILLS-Assignments)
+</p>
 
 # ABOUT :
 ### This repository is a collection of codes and projects related to data science, machine learning, and artificial intelligence. We are constantly adding new content, so make sure to check back often.
