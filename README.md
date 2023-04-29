@@ -1,7 +1,13 @@
-[![PWSKILLS ASSIGNMENTS](https://readme-typing-svg.demolab.com?font=Calibri&pause=1000&multiline=true&width=435&lines=PWSKILLS+-+ASSIGNMENTS)](https://github.com/creativepuru)
+> [![Purushottam Anand](https://github.com/creativepuru.png?size=100)](https://github.com/creativepuru "Purushottam Anand 🇮🇳 on GitHub ☕")
 
+[![PWSKILLS ASSIGNMENTS](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=700&height=120&lines=WELCOME+TO+MY+PWSKILLS+-+ASSIGNMENTS+REPOSITORY)](https://github.com/creativepuru/PWSKILLS-Assignments)
+
+# ABOUT :
+### This repository is a collection of codes and projects related to data science, machine learning, and artificial intelligence. We are constantly adding new content, so make sure to check back often.
+<br/>
 
 ## This repository is dedicated to my solutions of assignments given by PWSKILLS for the course "DATA SCIENCE MASTERS - IMPACT BATCH 1" 
+<br/>
 
 ### || Organisation Name : PWSKILLS  ||
 
