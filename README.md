@@ -2,7 +2,9 @@
 
 <div align="center"> 
 
-[![PWSKILLS ASSIGNMENTS](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=700&height=120&lines=WELCOME+TO+MY+PWSKILLS+-+ASSIGNMENTS+REPOSITORY)](https://github.com/creativepuru/PWSKILLS-Assignments)
+[![PWSKILLS ASSIGNMENTS](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=700&height=100&lines=WELCOME+TO+MY+PWSKILLS+-+ASSIGNMENTS+REPOSITORY)](https://github.com/creativepuru/PWSKILLS-Assignments)
+
+[![ABOUT](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=false&width=800&height=50&lines=✨+This+repository+is+a+collection+of+codes+and+projects+related+to...;Data+Science,+Machine+Learning,+and+Artificial+Intelligence.;✨+I+am+constantly+adding+new+contents.;💭+So+make+sure+to+check+back+often+🕙)](https://github.com/creativepuru/PWSKILLS-Assignments)
 
 </div>
 
