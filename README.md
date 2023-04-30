@@ -32,6 +32,7 @@
 
 ###  Whether you are a `beginner` or an `experienced data scientist`, our repository has something for `everyone`. 
 ### We believe that `open-source` is the key to democratizing access to data science education, and we are `committed` to making our content accessible to everyone.
+<br> </br>
 
 ## ❤️ Thank you for visiting my repository, and happy exploring 🤗
 <br> </br>
