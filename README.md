@@ -1,4 +1,4 @@
-> [![Purushottam Anand](https://github.com/creativepuru.png?size=100)](https://github.com/creativepuru "Purushottam Anand 🇮🇳 on GitHub ☕")
+> [![Purushottam Anand 🇮🇳 on GitHub ☕](https://github.com/creativepuru.png?size=100)](https://github.com/creativepuru "Purushottam Anand 🇮🇳 on GitHub ☕")
 
 <div align="center"> 
 
@@ -19,21 +19,25 @@
 # 🔰 Description :
 ### Here are some of the things you can expect to find in our repository:
 
-### 👉🏻 Jupyter Notebooks: We have a variety of `Jupyter notebooks` covering topics such as `data analysis`, `machine learning`, and `deep learning`. Our notebooks are designed to be interactive and educational, so feel free to explore and experiment.
+- ### 👉🏻 Jupyter Notebooks: We have a variety of `Jupyter notebooks` covering topics such as `data analysis`, `machine learning`, and `deep learning`. Our notebooks are designed to be interactive and educational, so feel free to explore and experiment.
 
-### 👉🏻 Resources: We have compiled a list of `useful resources`, including books, articles, and tutorials. These resources are designed to help you learn more about `data science` and `machine learning`.
+- ### 👉🏻 Resources: We have compiled a list of `useful resources`, including books, articles, and tutorials. These resources are designed to help you learn more about `data science` and `machine learning`.
 
-### 👉🏻 Datasets: We have a variety of `datasets` that you can use to practice your data science skills. Our datasets include everything from text data to image data to time-series data.
+- ### 👉🏻 Datasets: We have a variety of `datasets` that you can use to practice your data science skills. Our datasets include everything from text data to image data to time-series data.
 
-### 👉🏻 Projects: We have a number of `projects` that you can explore and build upon. Our projects cover a range of topics, including `image classification`, `natural language processing`, and `predictive modeling`
+- ### 👉🏻 Projects: We have a number of `projects` that you can explore and build upon. Our projects cover a range of topics, including `image classification`, `natural language processing`, and `predictive modeling`
 <br> </br>
 
-### ✨ Whether you are a `beginner` or an `experienced data scientist`, our repository has something for `everyone`. 
+# 👨‍💻 Getting Started ✨
+
+###  Whether you are a `beginner` or an `experienced data scientist`, our repository has something for `everyone`. 
 ### We believe that `open-source` is the key to democratizing access to data science education, and we are `committed` to making our content accessible to everyone.
-<br> </br>
 
 ## ❤️ Thank you for visiting my repository, and happy exploring 🤗
-### 📍 Repository creation date 👉🏻 `15th April 2023`
-##
+<br> </br>
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=red&style=for-the-badge&logo" alt="Back to Top" /></a></p>
+## 🤝 SUPPORT ME 👉🏻 [![BMC](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
+
+<p align="right">
+<a href="#top">
+<img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=red&style=for-the-badge&logo" alt="Back to Top" /> </a> </p>
