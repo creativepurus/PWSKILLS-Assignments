@@ -91,7 +91,7 @@ jupyter notebook
 
 # 📖 License
 ### My [PWSKILLS-Assignments repository](https://github.com/creativepuru/PWSKILLS-Assignments) is licensed under the [Creative Commons Zero v1.0 Universal](https://github.com/creativepuru/PWSKILLS-Assignments/blob/main/LICENSE.txt) License. 
-- See [LICENSE](:/LICENSE.txt) for more information.
+- See [LICENSE](https://github.com/creativepuru/PWSKILLS-Assignments/blob/main/LICENSE.txt) for more information.
 <br> </br>
 
 ## 🤝 SUPPORT ME 👉🏻 [![BMC](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
