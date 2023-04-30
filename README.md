@@ -2,7 +2,7 @@
 
 <div align="center"> 
 
-[![WELCOME MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=750&height=60&lines=👋+WELCOME+TO+MY+PWSKILLS+-+ASSIGNMENTS+REPOSITORY+🐍)](https://github.com/creativepuru/PWSKILLS-Assignments)
+[![WELCOME MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=750&height=60&lines=👋+WELCOME+TO+MY+PWSKILLS+-+ASSIGNMENTS+REPOSITORY+📘)](https://github.com/creativepuru/PWSKILLS-Assignments)
 
 [![ABOUT MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=24&duration=1000&pause=1000&multiline=true&width=1000&height=120&lines=📚+This+repository+contains+a+collection+of+assignments+related+to;🐍+Python,+Data+Science,+🤖+Machine+Learning,+and+Artificial+Intelligence+🧠;🦾+Curated+by+the+team+at+PWSKILLS+and+iNeuronAI+🧠)](https://github.com/creativepuru/PWSKILLS-Assignments)
 
@@ -85,8 +85,7 @@ jupyter notebook
 <br> </br>
 
 # 🚀 Let's learn and grow together!
-- 🤖 We believe that the future belongs to those who master these skills, and we're excited to be a part of your journey. So what are you waiting for? Clone this repository and start exploring the world of Python, Data Science, Machine Learning, and Artificial Intelligence today!
-
+- I hope you find this repository useful and informative in your journey towards mastering data science.
 - 👨‍💻 Happy coding! 🎉
 
 ### ❤️ Thank you for visiting my repository, and happy exploring 🤗
