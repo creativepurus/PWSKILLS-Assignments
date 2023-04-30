@@ -16,22 +16,58 @@
 ### || Student Name : Purushottam Anand  ||
 <br> </br>
 
-# 🔰 Description :
-### Here are some of the things you can expect to find in our repository:
+# 📚 Table of Contents
+### Here are some of the things you can expect to find in my repository:
 
-- ### 👉🏻 Jupyter Notebooks: We have a variety of `Jupyter notebooks` covering topics such as `data analysis`, `machine learning`, and `deep learning`. Our notebooks are designed to be interactive and educational, so feel free to explore and experiment.
+- 🧠 AI
+- 📁 Datasets
+- 📈 Data Science
+- 💻 Machine Learning
+- 📊 Data Visualization
+- 📝 Jupyter Notebooks
+<br> </br>
 
-- ### 👉🏻 Resources: We have compiled a list of `useful resources`, including books, articles, and tutorials. These resources are designed to help you learn more about `data science` and `machine learning`.
+# 📚 Topics Covered :
 
-- ### 👉🏻 Datasets: We have a variety of `datasets` that you can use to practice your data science skills. Our datasets include everything from text data to image data to time-series data.
+🔹 Data cleaning and preprocessing
 
-- ### 👉🏻 Projects: We have a number of `projects` that you can explore and build upon. Our projects cover a range of topics, including `image classification`, `natural language processing`, and `predictive modeling`
+🔹 Exploratory data analysis
+
+🔹 Machine learning algorithms
+
+🔹 Deep learning frameworks
+
+🔹 Natural language processing
+
+🔹 Computer vision
+
+🔹 Reinforcement learning
 <br> </br>
 
 # 👨‍💻 Getting Started ✨
+<b>
 
-###  Whether you are a `beginner` or an `experienced data scientist`, our repository has something for `everyone`. 
-### We believe that `open-source` is the key to democratizing access to data science education, and we are `committed` to making our content accessible to everyone.
+- Whether you are a beginner or an experienced data scientist, my repository has something for everyone. <br/>
+- I have created files based upon the months in which you will find all the contents mentioned in `Topics Covered Section` 
+- You will find a `detailed explanation` of the codes as well !
+</b> <br> </br>
+
+# 🚀 Let's learn and grow together!
+
+### I hope you find will this repository useful and informative in your journey towards mastering data science.
+### Happy coding! 🎉
+<br> </br>
+
+<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me+-+Social+Links+💻+" alt="How to Reach Me Typing SVG" /> </h1>
+
+[![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-round&logo=linkedin)](https://openinapp.co/linkedinpuru "Purushottam Anand's LinkedIn Profile")    <!-- LinkedIn -->
+[![Purushottam Anand's Twitter](https://img.shields.io/badge/-Twitter-white?style=flat-round&logo=twitter)](https://openinapp.co/twitterpuru "Purushottam Anand's Twitter Handle")               <!-- Twitter -->
+[![Purushottam Anand's Facebook](https://img.shields.io/badge/-Facebook-white?style=flat-round&logo=facebook)](https://openinapp.co/fbpuru "Purushottam Anand's Facebook Profile")             <!-- Facebook -->
+[![Purushottam Anand's Instagram](https://img.shields.io/badge/-Instagram-white?style=flat-round&logo=instagram)](https://openinapp.co/instapuru "Purushottam Anand's Instagram Profile")            <!-- Instagram -->
+
+[![Purushottam Anand's Email](https://img.shields.io/badge/Gmail-use%20Desktop%20/%20Laptop%20to%20open%20Gmail-blue?style=social&logo=gmail)](https://openinapp.co/gmailpuru "Gmail - use Desktop / Laptop to open Gmail")
+
+[![Purushottam Anand's GitHub](https://img.shields.io/badge/GitHub-❤️%20Sponsor%20me%20on%20GitHub-gr?style=for-the-badge&logo=github)](https://openinapp.co/githubpuru "Purushottam Anand's GitHub Page")
 <br> </br>
 
 ## ❤️ Thank you for visiting my repository, and happy exploring 🤗
