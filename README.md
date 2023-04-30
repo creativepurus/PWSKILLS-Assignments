@@ -16,7 +16,7 @@
 ### || Student Name : Purushottam Anand  ||
 <br> </br>
 
-# 📚 Table of Contents
+# 📚 Table of Contents :
 ### Here are some of the things you can expect to find in my repository:
 
 - 🧠 AI
