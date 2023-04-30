@@ -4,7 +4,7 @@
 
 [![WELCOME MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=750&height=60&lines=👋+WELCOME+TO+MY+PWSKILLS+-+ASSIGNMENTS+REPOSITORY+🐍)](https://github.com/creativepuru/PWSKILLS-Assignments)
 
-[![ABOUT MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=24&duration=1000&pause=1000&multiline=true&width=1000&height=120&lines=📚+This+repository+contains+a+collection+of+assignments+related+to...;🐍+Python,+Data+Science,+🤖+Machine+Learning,+and+Artificial+Intelligence+🧠;🦾+curated+by+the+team+at+PWSKILLS+and+iNeuronAI+🧠)](https://github.com/creativepuru/PWSKILLS-Assignments)
+[![ABOUT MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=24&duration=1000&pause=1000&multiline=true&width=1000&height=120&lines=📚+This+repository+contains+a+collection+of+assignments+related+to;🐍+Python,+Data+Science,+🤖+Machine+Learning,+and+Artificial+Intelligence+🧠;🦾+Curated+by+the+team+at+PWSKILLS+and+iNeuronAI+🧠)](https://github.com/creativepuru/PWSKILLS-Assignments)
 
 [![ABOUT MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=24&duration=1000&pause=1000&multiline=true&width=1000&height=80&lines=✨+I+am+constantly+adding+new+contents.;💭+So+make+sure+to+check+back+often+🕙)](https://github.com/creativepuru/PWSKILLS-Assignments)
  
