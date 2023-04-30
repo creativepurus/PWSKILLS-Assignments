@@ -10,8 +10,6 @@
  
 </div>
 
-<br> </br>
-
 # 📚 Table of Contents
 - 🔰 ABOUT
 - 💻 Getting Started
