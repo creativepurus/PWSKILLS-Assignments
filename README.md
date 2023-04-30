@@ -2,61 +2,72 @@
 
 <div align="center"> 
 
-[![PWSKILLS ASSIGNMENTS](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=700&height=100&lines=WELCOME+TO+MY+PWSKILLS+-+ASSIGNMENTS+REPOSITORY)](https://github.com/creativepuru/PWSKILLS-Assignments)
+[![PWSKILLS ASSIGNMENTS](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=750&height=60&lines=👋+WELCOME+TO+MY+PWSKILLS+-+ASSIGNMENTS+REPOSITORY+🐍)](https://github.com/creativepuru/PWSKILLS-Assignments)
 
-[![ABOUT](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=false&width=800&height=50&lines=✨+This+repository+is+a+collection+of+codes+and+projects+related+to...;Data+Science,+Machine+Learning,+and+Artificial+Intelligence.;✨+I+am+constantly+adding+new+contents.;💭+So+make+sure+to+check+back+often+🕙)](https://github.com/creativepuru/PWSKILLS-Assignments)
+[![ABOUT](https://readme-typing-svg.demolab.com?font=Calibri&size=24&duration=2000&pause=1000&multiline=false&width=800&height=100&lines=📚+This+repository+contains+a+collection+of+assignments+related+to...;🐍+Python,+Data+Science,+🤖+Machine+Learning,+and+Artificial+Intelligence+🧠;🦾+curated+by+the+team+at+PWSKILLS+and+iNeuronAI+🧠)](https://github.com/creativepuru/PWSKILLS-Assignments)
 
+[![ABOUT](https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=2000&pause=1000&multiline=false&width=800&height=50&lines=✨+I+am+constantly+adding+new+contents.;💭+So+make+sure+to+check+back+often+🕙)](https://github.com/creativepuru/PWSKILLS-Assignments)
+ 
 </div>
 
-# 🔰 ABOUT :
+# 📚 Table of Contents
+- 🔰 ABOUT
+- 💻 Getting Started
+- 🔰 Description
+- 📣 Feedback
+- 📲 How to reach me 💻
+- 🚀 Let's learn and grow together!
+- 🤝 SUPPORT ME 👉🏻 Buy Me a Coffee ☕
+
+# 🔰 ABOUT 
 ### This repository is dedicated to my solutions of assignments given by PWSKILLS for the course "DATA SCIENCE MASTERS - IMPACT BATCH 1" 
-### || Organisation Name : PWSKILLS  ||
-### || Course Name : DATA SCIENCE MASTERS  ||
-### || Batch : IMPACT BATCH 1  ||
-### || Student Name : Purushottam Anand  ||
-<br> </br>
 
-# 📚 Table of Contents :
-### Here are some of the things you can expect to find in my repository:
+[![Organisation Name](https://readme-typing-svg.demolab.com?font=Calibri&size=26&pause=1000&multiline=false&width=800&height=50&lines=✨+Organisation+Name+:+PWSKILLS)](https://github.com/creativepuru/PWSKILLS-Assignments)
 
-- 🧠 AI
-- 📁 Datasets
-- 📈 Data Science
-- 💻 Machine Learning
-- 📊 Data Visualization
-- 📝 Jupyter Notebooks
-<br> </br>
+[![Course Name](https://readme-typing-svg.demolab.com?font=Calibri&size=26&pause=1000&multiline=false&width=800&height=50&lines=✨+Course+Name+:+DATA+SCIENCE+MASTERS)](https://github.com/creativepuru/PWSKILLS-Assignments)
 
-# 📚 Topics Covered :
+[![Batch](https://readme-typing-svg.demolab.com?font=Calibri&size=26&pause=1000&multiline=false&width=800&height=50&lines=✨+Batch+:+IMPACT+BATCH+1)](https://github.com/creativepuru/PWSKILLS-Assignments)
 
-🔹 Data cleaning and preprocessing
+[![Student Name](https://readme-typing-svg.demolab.com?font=Calibri&size=26&pause=1000&multiline=false&width=800&height=50&lines=✨+Student+Name+:+Purushottam+Anand)](https://github.com/creativepuru)
 
-🔹 Exploratory data analysis
+# 👨‍💻 Getting Started 
+- To get started, you'll need to have `Python` installed on your computer. You can download the latest version of Python from the official website: https://www.python.org/downloads/
+- You'll also need to have `Jupyter` installed. You can install it using `pip` using below commands :
+```
+pip install jupyter
+```
+- Once you have `Python` and `Jupyter` installed, you can `clone` this repository:
+```
+git clone https://github.com/creativepuru/Python-Basics.git
+```
+- Then, navigate to the directory where the repository was cloned and start Jupyter by using below commands :
+```
+cd <Python-Basics>
+jupyter notebook
+```
+- This will open the `Jupyter notebook interface` in your default `web browser`. From here, you can navigate to the notebooks directory and open any of the notebooks to view the code examples.
 
-🔹 Machine learning algorithms
+# 🔰 Description
+- 👋 Welcome to the PWSKILLS Assignments Repository!
 
-🔹 Deep learning frameworks
+- 📚 This repository contains a collection of assignments related to Python, Data Science, Machine Learning, and Artificial Intelligence, curated by the team at PWSKILLS.
 
-🔹 Natural language processing
+- 🚀 Our goal is to provide a comprehensive resource for those looking to improve their skills in these exciting fields. Whether you're a beginner or an expert, you'll find plenty of challenges and opportunities to learn and grow.
 
-🔹 Computer vision
+- 💻 Each assignment is accompanied by a set of instructions and sample code, designed to guide you through the task and help you develop your skills. We encourage you to experiment with the code and try out your own ideas.
 
-🔹 Reinforcement learning
-<br> </br>
+- 📈 As you progress through the assignments, you'll build a solid foundation in Python and gain experience in using popular data science libraries such as NumPy, Pandas, and Matplotlib. You'll also explore cutting-edge topics like machine learning and artificial intelligence, learning how to build predictive models and intelligent agents.
 
-# 👨‍💻 Getting Started ✨
-<b>
+# 📣 Feedback
+- 🙌 We value your feedback and opinions. If you have any comments, suggestions, or feedback about our assignments, please share them with us in this section.
 
-- Whether you are a beginner or an experienced data scientist, my repository has something for everyone. <br/>
-- I have created files based upon the months in which you will find all the contents mentioned in `Topics Covered Section` 
-- You will find a `detailed explanation` of the codes as well !
-</b> <br> </br>
+- 💬 To provide feedback, you can open a new issue under [Issues tab](https://github.com/creativepuru/PWSKILLS-Assignments/issues) and describe your thoughts. We welcome any feedback that can help us improve the quality of our assignments, including code examples, new topics or problems, typos or errors, or any other suggestions.
 
-# 🚀 Let's learn and grow together!
+- 👨‍💻 We are constantly striving to improve our assignments and make them more useful and accessible for our users. Your feedback can help us achieve that goal.
 
-### I hope you find will this repository useful and informative in your journey towards mastering data science.
-### Happy coding! 🎉
-<br> </br>
+- 🤝 We appreciate your support and look forward to hearing from you.
+
+### Or else, you can directly reach me at any of the Social Media links mentioned below :
 
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me+-+Social+Links+💻+" alt="How to Reach Me Typing SVG" /> </h1>
 
@@ -70,7 +81,12 @@
 [![Purushottam Anand's GitHub](https://img.shields.io/badge/GitHub-❤️%20Sponsor%20me%20on%20GitHub-gr?style=for-the-badge&logo=github)](https://openinapp.co/githubpuru "Purushottam Anand's GitHub Page")
 <br> </br>
 
-## ❤️ Thank you for visiting my repository, and happy exploring 🤗
+# 🚀 Let's learn and grow together!
+- 🤖 We believe that the future belongs to those who master these skills, and we're excited to be a part of your journey. So what are you waiting for? Clone this repository and start exploring the world of Python, Data Science, Machine Learning, and Artificial Intelligence today!
+
+- 👨‍💻 Happy coding! 🎉
+
+### ❤️ Thank you for visiting my repository, and happy exploring 🤗
 <br> </br>
 
 ## 🤝 SUPPORT ME 👉🏻 [![BMC](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
