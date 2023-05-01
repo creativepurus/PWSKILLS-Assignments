@@ -20,6 +20,7 @@
 - 🚀 Let's learn and grow together!
 - 📖 License
 - 🤝 SUPPORT ME 👉🏻 Buy Me a Coffee ☕
+<br> </br>
 
 # 🔰 ABOUT 
 ### This repository is dedicated to my solutions of assignments given by PWSKILLS for the course "DATA SCIENCE MASTERS - IMPACT BATCH 1" 
@@ -31,6 +32,7 @@
 [![Batch](https://readme-typing-svg.demolab.com?font=Calibri&size=26&pause=1000&multiline=false&width=800&height=50&lines=✨+Batch+:+IMPACT+BATCH+1)](https://github.com/creativepuru/PWSKILLS-Assignments)
 
 [![Student Name](https://readme-typing-svg.demolab.com?font=Calibri&size=26&pause=1000&multiline=false&width=800&height=50&lines=✨+Student+Name+:+Purushottam+Anand)](https://github.com/creativepuru)
+<br> </br>
 
 # 📚 Topics Covered 
 Below are the topics you'll find in this repository:
