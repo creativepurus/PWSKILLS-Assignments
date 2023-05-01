@@ -64,6 +64,7 @@ Below are the topics you'll find in this repository:
 🔹 Data Science Workflow
 
 🔹 Real Time Data Science Projects
+<br> </br>
 
 # 👨‍💻 Getting Started 
 - To get started, you'll need to have `Python` installed on your computer. You can download the latest version of Python from the official website: https://www.python.org/downloads/
@@ -81,6 +82,7 @@ cd <Python-Basics>
 jupyter notebook
 ```
 - This will open the `Jupyter notebook interface` in your default `web browser`. From here, you can navigate to the notebooks directory and open any of the notebooks to view the code examples.
+<br> </br>
 
 # 🔰 Description
 - 👋 Welcome to the PWSKILLS Assignments Repository!
@@ -92,6 +94,7 @@ jupyter notebook
 - 💻 Each assignment is accompanied by a set of instructions and sample code, designed to guide you through the task and help you develop your skills. We encourage you to experiment with the code and try out your own ideas.
 
 - 📈 As you progress through the assignments, you'll build a solid foundation in Python and gain experience in using popular data science libraries such as NumPy, Pandas, and Matplotlib. You'll also explore cutting-edge topics like machine learning and artificial intelligence, learning how to build predictive models and intelligent agents.
+<br> </br>
 
 # 📣 Feedback
 - 🙌 We value your feedback and opinions. If you have any comments, suggestions, or feedback about our assignments, please share them with us in this section.
@@ -101,7 +104,7 @@ jupyter notebook
 - 👨‍💻 We are constantly striving to improve our assignments and make them more useful and accessible for our users. Your feedback can help us achieve that goal.
 
 - 🤝 We appreciate your support and look forward to hearing from you.
-
+<br> </br>
 ### Or else, you can directly reach me at any of the Social Media links mentioned below :
 
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me+-+Social+Links+💻+" alt="How to Reach Me" /> </h1>
@@ -121,6 +124,7 @@ jupyter notebook
 - 👨‍💻 Happy coding! 🎉
 
 ### ❤️ Thank you for visiting my repository, and happy exploring 🤗
+<br> </br>
 
 # 📖 License
 ### My [PWSKILLS-Assignments repository](https://github.com/creativepuru/PWSKILLS-Assignments) is licensed under the [Creative Commons Zero v1.0 Universal](https://github.com/creativepuru/PWSKILLS-Assignments/blob/main/LICENSE.txt) License. 
