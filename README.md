@@ -12,6 +12,7 @@
 
 # 📚 Table of Contents
 - 🔰 ABOUT
+- 📚 Topics Covered 
 - 💻 Getting Started
 - 🔰 Description
 - 📣 Feedback
@@ -30,6 +31,39 @@
 [![Batch](https://readme-typing-svg.demolab.com?font=Calibri&size=26&pause=1000&multiline=false&width=800&height=50&lines=✨+Batch+:+IMPACT+BATCH+1)](https://github.com/creativepuru/PWSKILLS-Assignments)
 
 [![Student Name](https://readme-typing-svg.demolab.com?font=Calibri&size=26&pause=1000&multiline=false&width=800&height=50&lines=✨+Student+Name+:+Purushottam+Anand)](https://github.com/creativepuru)
+
+# 📚 Topics Covered 
+Below are the topics you'll find in this repository:
+
+🔹 Python
+
+🔹 Statistics
+
+🔹 Machine learning
+
+🔹 Deep learning
+
+🔹 Computer vision
+
+🔹 Natural language processing
+
+🔹 Big Data
+
+🔹 Apache Spark
+
+🔹 Apache Kafka
+
+🔹 Data Analytics
+
+🔹 PowerBI
+
+🔹 Tableau
+
+🔹 Databases
+
+🔹 Data Science Workflow
+
+🔹 Real Time Data Science Projects
 
 # 👨‍💻 Getting Started 
 - To get started, you'll need to have `Python` installed on your computer. You can download the latest version of Python from the official website: https://www.python.org/downloads/
